@@ -1,4 +1,5 @@
 # vue-rectangle-marker
+mark rectangle box in a background image
 
 ## Project setup
 ```
